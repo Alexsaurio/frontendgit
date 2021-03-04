@@ -1,0 +1,18 @@
+// archivo de variables generales
+
+// import de fuente
+// @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&family=Ubuntu:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@500&display=swap');
+
+// fuente
+$title-font: 'Ubuntu';
+$body-font: 'Roboto';
+
+//colores 
+$color1: #000000;
+$color2: #ffffff;
+$color3: #C63939;
+
+// tamaños para mediaquery
+$mobile: 479px;
+$tablet: 599px;

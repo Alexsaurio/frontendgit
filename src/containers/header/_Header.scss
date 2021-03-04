@@ -1,0 +1,33 @@
+.Header{
+    background: $color1;
+    color: $color2;
+    padding: 25px 0px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .Header-Title{
+        font-size: 18px;
+        letter-spacing: 2px;
+        font-family: $title-font;
+    }
+
+    img{
+        width: 50px;
+        margin: 10px;
+        border-radius: 100px
+    }
+
+    @media (max-width: $tablet) {
+        & {    
+            flex-direction: column-reverse;
+        }
+        .Header-Title{
+            font-size: 12px;
+        }
+        img{
+            width: 70px;
+        }
+    }
+}

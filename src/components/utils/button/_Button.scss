@@ -1,0 +1,24 @@
+.base-button{
+    border: none;
+    border-radius: 10px;
+    padding: 5px 30px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.primary{
+    background: #76A923;
+    color: white;
+}
+
+.secondary{
+    background: #20406c;
+    color: white;
+}
+.ligth{
+    background: #02b1a8;
+}
+.danger{
+    background: #e6512b;
+    color: white;
+}

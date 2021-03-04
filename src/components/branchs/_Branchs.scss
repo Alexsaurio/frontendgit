@@ -1,0 +1,19 @@
+.Branchs {
+    margin: 25px 50px;
+
+    label, select {
+        font-size: 16px;
+        margin: 3px;
+    }
+
+    select{
+        width: 300px;
+        padding: 2px 10px;
+        border-radius: 5px;
+    }
+
+    hr{
+        margin: 10px 0;
+        border: 1px solid $color3;
+    }
+}

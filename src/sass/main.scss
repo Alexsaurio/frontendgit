@@ -1,0 +1,14 @@
+
+@import './_variables.scss';
+@import '../containers/header/_Header.scss';
+@import '../containers/content/_Content.scss';
+@import '../components/commits/_Commits.scss';
+@import '../components/utils/button/_Button.scss';
+@import '../components/branchs/_Branchs.scss';
+@import '../components/pullrequest/_Pullrequest.scss';
+@import '../components/listpullrequest/_Listpullrequest.scss';
+
+* { 
+    margin: 0;
+    font-family: $body-font;
+}
