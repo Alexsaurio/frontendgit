@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+initialize project dependencies, you can run:
+
+### `npm i`
+
 In the project directory, you can run:
 
 ### `npm start`
@@ -14,5 +18,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-=========================
-### Backend source
+### Backend Source:
+
+[https://github.com/Alexsaurio/backendgit.git](https://github.com/Alexsaurio/backendgit.git)
